@@ -2,7 +2,7 @@
 
 I am a 13-year-old programmer and hardware engineer (8th grade) focused on low-level optimization, microkernels, and preemptive schedulers.
 
-![](https://komarev.com/ghpvc/?username=lighteral&color=8c2645&style=for-the-badge&base=480)
+![](https://komarev.com/ghpvc/?username=lighteral&color=8c2645&style=for-the-badge)
 
 * **🔭 Working on:** Apt-bundle and a PC OS microkernel.
 * **🌱 Learning:** NASM assembly independently.
