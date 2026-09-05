@@ -28,7 +28,13 @@ I am an adorkable, self-taught 13-year-old programmer and hardware engineer (8th
 <!--![](https://img.shields.io/badge/Currently%20Learning:-660000?style=for-the-badge)-->
 ### Currently Learning:  
 ![](https://img.shields.io/badge/TinyBASIC-8c2645?style=for-the-badge)
-![](https://img.shields.io/badge/NASM-8c2645?style=for-the-badge)  
+![](https://img.shields.io/badge/NASM-8c2645?style=for-the-badge)
+
+### Operating systems I use:
+![](https://img.shields.io/badge/Arch%20Linux-darkcyan?style=for-the-badge)
+![](https://img.shields.io/badge/Debian%2013-darkcyan?style=for-the-badge)
+![](https://img.shields.io/badge/Windows%2010-darkcyan?style=for-the-badge)
+
 ![](https://komarev.com/ghpvc/?username=lighteral&color=660000&style=for-the-badge&label=views)  
  
 * **🔭 Working on:** Apt-bundle and a PC OS microkernel.
