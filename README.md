@@ -6,7 +6,10 @@ I am an adorkable, self-taught 13-year-old programmer and hardware engineer (8th
 ┃┃┃┏━┃┏┛ ┏━┛  ━━┃ ┃ ┃ ┃┏━┛┏━┛   ┃ ┃ ┃  ┃ ┃┃ ┃  ┃ ┃┃ ┃┃ ┃┃ ┃   ┃ ┃┃ ┃ ┃   ┏━┛┃ ┃┃┃    
 ┛┛┛┛ ┛┛ ┛━━┛  ━━┛ ┛ ━━┛┛  ┛     ┛ ━━┛  ━━ ━━┛  ━━┛━━┛━━┛━━ ,  ┛ ┛━━┛ ┛   ━━┛ ┛ ┛━━┛
 ```  
-![](https://img.shields.io/badge/I%20know%20these%20well:-darkgreen?style=for-the-badge)
+<!--![](https://img.shields.io/badge/I%20know%20these%20well:-darkgreen?style=for-the-badge)-->
+### Proficient in:  
+![](https://img.shields.io/badge/BASH-darkcyan?style=for-the-badge)
+![](https://img.shields.io/badge/KiCAD-darkcyan?style=for-the-badge)
 ![](https://img.shields.io/badge/C%23-darkcyan?style=for-the-badge)
 ![](https://img.shields.io/badge/C++-darkcyan?style=for-the-badge)
 ![](https://img.shields.io/badge/C%20-darkcyan?style=for-the-badge)
@@ -15,13 +18,15 @@ I am an adorkable, self-taught 13-year-old programmer and hardware engineer (8th
 ![](https://img.shields.io/badge/HTML-darkcyan?style=for-the-badge)
 ![](https://img.shields.io/badge/CSS-darkcyan?style=for-the-badge)
 ![](https://img.shields.io/badge/JS-darkcyan?style=for-the-badge)  
-![](https://img.shields.io/badge/Familiar%20with:-darkblue?style=for-the-badge)
+<!--![](https://img.shields.io/badge/Familiar%20with:-darkblue?style=for-the-badge)-->
+### Familiar with:  
 ![](https://img.shields.io/badge/VB-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/VBA-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/VBS-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/QB64-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/MSWLogo-blue?style=for-the-badge)  
-![](https://img.shields.io/badge/Currently%20Learning:-660000?style=for-the-badge)
+<!--![](https://img.shields.io/badge/Currently%20Learning:-660000?style=for-the-badge)-->
+### Currently Learning:  
 ![](https://img.shields.io/badge/TinyBASIC-8c2645?style=for-the-badge)
 ![](https://img.shields.io/badge/NASM-8c2645?style=for-the-badge)  
 ![](https://komarev.com/ghpvc/?username=lighteral&color=660000&style=for-the-badge&label=views)  
